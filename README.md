@@ -31,7 +31,7 @@ Para listar o conteúdo de um PDF, utilize a função listar_conteudo_pdf:
 ## Modificar PDF
 Para modificar um PDF, utilize a função modificar_pdf:
 
-![Print da tela listando o conteúdo do PDF](Modificar_PDF.png)
+![Print da tela listando o conteúdo do PDF](https://github.com/Matheusisa/Modificar_PDF/blob/main/README/Modificar_PDF.png)
 
 ## Exemplo de uso 
 ![Print da tela listando o conteúdo do PDF](Exemplo_de_uso.png)
