@@ -34,7 +34,7 @@ Para modificar um PDF, utilize a função modificar_pdf:
 ![Print da tela listando o conteúdo do PDF](https://github.com/Matheusisa/Modificar_PDF/blob/main/README/Modificar_PDF.png)
 
 ## Exemplo de uso 
-![Print da tela listando o conteúdo do PDF](Exemplo_de_uso.png)
+![Print da tela listando o conteúdo do PDF](https://github.com/Matheusisa/Modificar_PDF/blob/main/README/Exemplo_de_uso.png)
 
 
 ## Contribuição
